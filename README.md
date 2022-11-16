@@ -1,4 +1,4 @@
 # Python_teste
-Repositório de teste automatizado de código Python.
+Repositório de teste automatizado de arquivo por programa em linguagem de programação Python.
 
-Este repositório contém um código o qual lê um arquivo, tabela.data, o qual é uma tabela com linhas separadas por caractere Enter ou '\n' e colunas separadas por caractere espaço ' '. Esta tabela contém a coluna "#", com números inteiros 1, 2, 4, 9, 7, e ao lado colunas "Fact" e "Fib", que respectivamente col
+Este repositório contém um código cuja função é testar arquivos os quais são tabelas com linhas separadas por caractere Enter ou '\n' e colunas separadas por caractere espaço ' '. Estas tabelas contém a coluna "#", com números inteiros 1, 2, 4, 9, 7, e ao lado coluna "Fact", com fatoriais dos números na coluna "#", e "Fib", com números da seqùência de Fibonacci nas posições numeradas em "#". O teste automatizado consiste em calcular os fatoriais e números de Fibonacci relativos à coluna "#", por função recursiva, e analisar os dois arquivos de tabelas, um com valores corretos e outro com alguns valores propositalmente errados. O primeiro arquivo possui os valores em colunas "Fib" e "Fact", de modo a serem comparados, enquanto o teste do segundo arquivo deve fornecer as linhas da tabela com valores errados.
